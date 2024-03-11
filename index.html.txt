@@ -1,0 +1,7 @@
+<body>
+<formulario acción="https://formsubmit.co/ your@email.com" método="POST">
+     <tipo de entrada="texto" nombre="nombre" requerido>
+     <tipo de entrada="correo electrónico" nombre="correo electrónico" requerido>
+     <tipo de botón="enviar">Enviar</botón>
+</ formulario>
+<body>
